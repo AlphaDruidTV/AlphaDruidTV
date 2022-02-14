@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphaDruidTV
-- 👀 I’m interested in programming discord bots
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming mobile apps with backend support
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on nothing at this moment
 - 📫 How to reach me alphadruidtv@gmail.com
 
